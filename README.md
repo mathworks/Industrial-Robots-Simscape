@@ -3,6 +3,8 @@ Copyright 2021 The MathWorks, Inc.
 
 ![](Scripts/Images/sm_industrial_robots_overview_image_ribbon.png)
 
+[![View Industrial Robot Models in Simscape on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/97312-industrial-robot-models-in-simscape)
+
 This repository of industrial robot models for use with [Simscape Multibody](https://www.mathworks.com/products/simscape-multibody.html) includes mobile and manipulator robots. It has examples that help you:
 
 * Import URDF files using MATLAB to create models
