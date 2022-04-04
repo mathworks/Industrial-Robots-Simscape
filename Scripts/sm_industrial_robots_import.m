@@ -1,6 +1,6 @@
 function sm_industrial_robots_import(robotname,robotaction)
 % Script to handle executing or editing specific URDF import scripts
-% Copyright 2021 The MathWorks, Inc.
+% Copyright 2021-2022 The MathWorks, Inc.
 
 cd(fileparts(which('startup_sm_industrial_robots.m')));
 smri_file_f = dir(['Robots' filesep robotname filesep 'sm_robotexample_import*.m']);

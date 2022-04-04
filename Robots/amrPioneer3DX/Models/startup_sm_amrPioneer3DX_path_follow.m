@@ -1,5 +1,5 @@
 % Set up sm_amrPioneer3DX_path_follow.slx
-% Copyright 2021 The MathWorks, Inc.
+% Copyright 2021-2022 The MathWorks, Inc.
 
 % Change to directory of model
 cd(fileparts(which(mfilename)))
