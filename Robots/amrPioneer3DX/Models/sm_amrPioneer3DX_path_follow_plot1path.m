@@ -3,7 +3,7 @@
 %
 % The code below plots the waypoints and path traveled by the robot.
 %
-% Copyright 2021-2022 The MathWorks, Inc.
+% Copyright 2021-2023 The MathWorks, Inc.
 
 % Generate simulation results if they don't exist
 if ~exist('simlog_sm_amrPioneer3DX_path_follow', 'var')

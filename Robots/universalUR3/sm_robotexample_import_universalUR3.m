@@ -1,5 +1,5 @@
 % Script to import sm_universalUR3.urdf
-% Copyright 2021-2022 The MathWorks, Inc.
+% Copyright 2021-2023 The MathWorks, Inc.
 
 %% Import URDF file to create Simscape Multibody model
 addpath([pwd filesep 'Geometry']);
