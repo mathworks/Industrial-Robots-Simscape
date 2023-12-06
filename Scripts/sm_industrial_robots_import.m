@@ -13,7 +13,7 @@ if(~isempty(smri_file_f))
     elseif(strcmpi(robotaction,'import'))
         run(smri_file_f.name)
     elseif(strcmpi(robotaction,'image'))
-        web(['sm_' robotname '.png'])
+        web(['sm_' robotname '.html'])
     end
 elseif(isfolder(robotname))
     % Import/Edit URDF file
