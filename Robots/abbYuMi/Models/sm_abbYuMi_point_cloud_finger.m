@@ -1,8 +1,8 @@
 function pointcloud = sm_abbYuMi_point_cloud_finger(varargin)
 %% Read in Steering Wheel STL file
-% Copyright 2021-2023 The MathWorks, Inc.
-stlfilename = 'abbyumi_finger.STL';
-finger_ptCloud = stlread('abbyumi_finger.STL');
+% Copyright 2021-2024 The MathWorks, Inc.
+stlfilename = 'abbyumi_finger.stl';
+finger_ptCloud = stlread('abbyumi_finger.stl');
 
 % Check if plot should be produced
 if (isempty(varargin))
