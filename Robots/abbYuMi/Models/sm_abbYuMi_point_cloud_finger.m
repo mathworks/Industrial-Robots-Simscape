@@ -1,6 +1,6 @@
 function pointcloud = sm_abbYuMi_point_cloud_finger(varargin)
 %% Read in Steering Wheel STL file
-% Copyright 2021-2024 The MathWorks, Inc.
+% Copyright 2021-2025 The MathWorks, Inc.
 stlfilename = 'abbyumi_finger.stl';
 finger_ptCloud = stlread('abbyumi_finger.stl');
 

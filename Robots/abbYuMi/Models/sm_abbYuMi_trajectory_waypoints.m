@@ -1,5 +1,5 @@
 %% Generate joint angle waypoints for sm_abbYuMi model using inverse kinematics
-% Copyright 2021-2024 The MathWorks, Inc.
+% Copyright 2021-2025 The MathWorks, Inc.
 
 %% Load model and generate kinematic solver object
 sys = 'sm_abbYuMi_trajectory';

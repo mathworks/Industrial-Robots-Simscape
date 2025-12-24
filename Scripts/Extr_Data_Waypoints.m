@@ -18,7 +18,7 @@ function [xy_data] = Extr_Data_Waypoints(xy_waypoints,path_width,varargin)
 %   add 'plot' as the final argument
 %   >> Extr_Data_Waypoints([1 1;2 2;-1 1;0 -1],0.1,'plot')
 
-% Copyright 2021-2024 The MathWorks, Inc.
+% Copyright 2021-2025 The MathWorks, Inc.
 
 % Default data to show diagram
 if (nargin == 0)

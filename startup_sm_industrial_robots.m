@@ -1,6 +1,6 @@
 % Startup script for Industrial Robots in Simscape
 %
-% Copyright 2021-2024 The MathWorks, Inc.
+% Copyright 2021-2025 The MathWorks, Inc.
 
 % Set up path
 addpath(pwd);

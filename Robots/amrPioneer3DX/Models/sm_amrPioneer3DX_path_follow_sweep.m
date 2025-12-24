@@ -3,7 +3,7 @@ function sm_amrPioneer3DX_path_follow_sweep(mdl,sweep_type)
 % Pass string 'Speed', 'Lookahead', or 'Max Yaw Rate' to sweep that
 % parameter
 %
-% Copyright 2021-2024 The MathWorks, Inc.
+% Copyright 2021-2025 The MathWorks, Inc.
 
 open_system(mdl);
 

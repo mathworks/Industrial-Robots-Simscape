@@ -1,5 +1,5 @@
 % Script to import and set initial position of sm_kinovaJacoJ2S7S300.urdf
-% Copyright 2021-2024 The MathWorks, Inc.
+% Copyright 2021-2025 The MathWorks, Inc.
 
 %% Import URDF file to create Simscape Multibody model
 addpath([pwd filesep 'Geometry']);
